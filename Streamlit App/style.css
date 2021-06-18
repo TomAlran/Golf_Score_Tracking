@@ -1,0 +1,27 @@
+.highlight {
+  border-radius: 0.3rem;
+  color: black;
+  padding: 0.1rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  font-weight: 700;
+}
+.lightskyblue {
+  background-color: lightskyblue;
+}
+.pink {
+  background-color: pink;
+}
+.cornsilk {
+  background-color: cornsilk;
+}
+.palegreen {
+  background-color: palegreen;
+}
+.indianred {
+  color: indianred;
+}
+.seagreen {
+  color: seagreen;
+}
